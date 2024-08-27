@@ -1,0 +1,10 @@
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\ADO.NET\ClinicalManagementSystemNewRD\ClinicalManagementSystemNewRD\bin\Debug\ClinicalManagementSystemNewRD.exe.config
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\ADO.NET\ClinicalManagementSystemNewRD\ClinicalManagementSystemNewRD\bin\Debug\ClinicalManagementSystemNewRD.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\ADO.NET\ClinicalManagementSystemNewRD\ClinicalManagementSystemNewRD\bin\Debug\ClinicalManagementSystemNewRD.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\ADO.NET\ClinicalManagementSystemNewRD\ClinicalManagementSystemNewRD\bin\Debug\SqlServerConnectionLibrary.dll
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\ADO.NET\ClinicalManagementSystemNewRD\ClinicalManagementSystemNewRD\bin\Debug\SqlServerConnectionLibrary.pdb
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\ADO.NET\ClinicalManagementSystemNewRD\ClinicalManagementSystemNewRD\obj\Debug\ClinicalManagementSystemNewRD.csproj.AssemblyReference.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\ADO.NET\ClinicalManagementSystemNewRD\ClinicalManagementSystemNewRD\obj\Debug\ClinicalManagementSystemNewRD.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\ADO.NET\ClinicalManagementSystemNewRD\ClinicalManagementSystemNewRD\obj\Debug\Clinical.61A32774.Up2Date
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\ADO.NET\ClinicalManagementSystemNewRD\ClinicalManagementSystemNewRD\obj\Debug\ClinicalManagementSystemNewRD.exe
+C:\Users\merin\Desktop\Faith\Camp4.2 .NET\ADO.NET\ClinicalManagementSystemNewRD\ClinicalManagementSystemNewRD\obj\Debug\ClinicalManagementSystemNewRD.pdb
